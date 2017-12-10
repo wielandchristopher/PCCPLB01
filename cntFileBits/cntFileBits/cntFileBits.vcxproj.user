@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
-    <LocalDebuggerCommandArguments>-t 40 -f .zip;.pdf;.exe -s C:\Users\wiela\Downloads\test\ -r 2 -v -w</LocalDebuggerCommandArguments>
+    <LocalDebuggerCommandArguments>-t 4 -w -p -s C:\Users\wiela\OneDrive\Studium\Bachelor\1.Semester</LocalDebuggerCommandArguments>
     <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
   </PropertyGroup>
 </Project>
