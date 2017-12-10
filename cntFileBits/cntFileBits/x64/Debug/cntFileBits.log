@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  cntFileBits.cpp
+c:\users\wiela\documents\github\pccplb01\cntfilebits\cntfilebits\cntfilebits.cpp(11): warning C4081: "newline" erwartet; ";" gefunden
+  cntFileBits.vcxproj -> C:\Users\wiela\Documents\GitHub\PCCPLB01\cntFileBits\x64\Debug\cntFileBits.exe
