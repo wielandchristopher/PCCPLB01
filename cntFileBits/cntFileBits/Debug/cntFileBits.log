@@ -1,4 +1,5 @@
 ﻿  cntFileBits.cpp
 c:\users\wiela\documents\github\pccplb01\cntfilebits\cntfilebits\cntfilebits.cpp(12): warning C4081: "newline" erwartet; ";" gefunden
-c:\users\wiela\documents\github\pccplb01\cntfilebits\cntfilebits\cntfilebits.cpp(80): warning C4244: "Argument": Konvertierung von "__int64" in "::size_t", möglicher Datenverlust
+c:\users\wiela\documents\github\pccplb01\cntfilebits\cntfilebits\cntfilebits.cpp(52): warning C4244: "Initialisierung": Konvertierung von "__int64" in "unsigned int", möglicher Datenverlust
+c:\users\wiela\documents\github\pccplb01\cntfilebits\cntfilebits\cntfilebits.cpp(55): warning C4244: "Argument": Konvertierung von "__int64" in "::size_t", möglicher Datenverlust
   cntFileBits.vcxproj -> C:\Users\wiela\Documents\GitHub\PCCPLB01\cntFileBits\Debug\cntFileBits.exe
