@@ -1,5 +1,5 @@
 ﻿  cntFileBits.cpp
 c:\users\wiela\documents\github\pccplb01\cntfilebits\cntfilebits\cntfilebits.cpp(7): warning C4081: "newline" erwartet; ";" gefunden
-c:\users\wiela\documents\github\pccplb01\cntfilebits\cntfilebits\cntfilebits.cpp(75): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
-c:\users\wiela\documents\github\pccplb01\cntfilebits\cntfilebits\cntfilebits.cpp(68): warning C4101: "i": Unreferenzierte lokale Variable
+c:\users\wiela\documents\github\pccplb01\cntfilebits\cntfilebits\cntfilebits.cpp(76): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\wiela\documents\github\pccplb01\cntfilebits\cntfilebits\cntfilebits.cpp(69): warning C4101: "i": Unreferenzierte lokale Variable
   cntFileBits.vcxproj -> C:\Users\wiela\Documents\GitHub\PCCPLB01\cntFileBits\Debug\cntFileBits.exe
