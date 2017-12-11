@@ -1,7 +1,5 @@
 ﻿  cntFileBits.cpp
-c:\users\wiela\documents\github\pccplb01\cntfilebits\cntfilebits\cntfilebits.cpp(12): warning C4081: "newline" erwartet; ";" gefunden
-c:\users\wiela\documents\github\pccplb01\cntfilebits\cntfilebits\cntfilebits.cpp(53): warning C4244: "Initialisierung": Konvertierung von "__int64" in "unsigned int", möglicher Datenverlust
-c:\users\wiela\documents\github\pccplb01\cntfilebits\cntfilebits\cntfilebits.cpp(56): warning C4244: "Argument": Konvertierung von "__int64" in "::size_t", möglicher Datenverlust
-c:\users\wiela\documents\github\pccplb01\cntfilebits\cntfilebits\cntfilebits.cpp(521): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
-c:\users\wiela\documents\github\pccplb01\cntfilebits\cntfilebits\cntfilebits.cpp(532): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\wiela\documents\github\pccplb01\cntfilebits\cntfilebits\cntfilebits.cpp(13): warning C4081: "newline" erwartet; ";" gefunden
+c:\users\wiela\documents\github\pccplb01\cntfilebits\cntfilebits\cntfilebits.cpp(100): warning C4018: "<": Konflikt zwischen "signed" und "unsigned"
+c:\users\wiela\documents\github\pccplb01\cntfilebits\cntfilebits\cntfilebits.cpp(93): warning C4101: "i": Unreferenzierte lokale Variable
   cntFileBits.vcxproj -> C:\Users\wiela\Documents\GitHub\PCCPLB01\cntFileBits\Debug\cntFileBits.exe
